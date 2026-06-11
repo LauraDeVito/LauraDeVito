@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LauraDeVito
-- 👀 I’m interested in social sciences data analysis
-- 🌱 I’m currently learning data analysis and programming in R
+- Hi, I’m @LauraDeVito
+- I’m a political scientist 
+- I research environmental policy and strategic foresight for policymaking
 
 <!---
 LauraDeVito/LauraDeVito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
