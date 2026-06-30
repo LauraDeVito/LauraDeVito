@@ -1,6 +1,6 @@
 - Hi, I’m @LauraDeVito
 - I’m a political scientist 
-- I research environmental policy and strategic foresight for policymaking
+- I research environmental policy and anticipatory governance
 
 <!---
 LauraDeVito/LauraDeVito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
